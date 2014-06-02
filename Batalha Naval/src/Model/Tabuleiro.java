@@ -36,7 +36,6 @@ public class Tabuleiro {
 		apontarNavio(new Submarino());
 	}
 	
-	//Este metodo indica a posicao da embarcacao.
 	public void apontarNavio (Navio navio)
 	{
 		Boolean livre = false;
