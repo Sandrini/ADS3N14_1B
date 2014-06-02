@@ -33,16 +33,16 @@ public class BubbleSort {
 
 					ordena++;
 
-				}//fim do if
-			}//fim do primeiro for
+				}
+			}
 			
-		}//fim do segundo for
+		}
 		
 		System.out.print("Numeros Ordenados: ");
 		for (int c = 0; c < array.length; c++) {
 			System.out.print(array[c] + "  ");
 		}
 		
-	}//Fim do metodo
+	}
 	
-}//Fim da Classe
+}
